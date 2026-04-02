@@ -1,5 +1,5 @@
 > [!WARNING]
-> This Course isn't yet complete
+> This Course isn't yet complete \
 > Ce cours n'est pas encore complet
 
 # Introduction (English)
