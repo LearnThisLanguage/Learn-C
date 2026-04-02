@@ -1,3 +1,7 @@
+[!WARNING]
+> This Course isn't yet complete
+> Ce cours n'est pas encore complet
+
 # Introduction (English)
 > C is a procedural/impertive compiled programming language. It allows you to have a very good control of your memory and hardware, but it deals with it complexity.
 
